@@ -99,6 +99,6 @@ Still powerful but crafted exclusively for mobile experience
 <h1>Support</h1>
 
 - Have a problem? Please open a GitHub issue
-- Visit homepage https://onmyway133.com/codelime/ for more information
+- Visit homepage https://indiegoodies.com/codelime/ for more information
 
 Codelime is done by a 2 persons indie development team and your support helps keep the project going. Thanks for checking out and have a nice day 😇
